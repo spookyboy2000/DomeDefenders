@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Dome
+  - turret
+  - Ore
+  - starcollider
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - you lose
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3293220587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ores
+    uniqueID: 2159924409
+    locked: 0
+  - name: VG
+    uniqueID: 1454857363
+    locked: 0
+  - name: Drill bit
+    uniqueID: 4220219713
+    locked: 0
+  - name: ingots
+    uniqueID: 1590558165
+    locked: 0
+  - name: trail
+    uniqueID: 151765671
+    locked: 0
+  - name: Drill holder
+    uniqueID: 4167820181
+    locked: 0
+  - name: Player
+    uniqueID: 1079636679
+    locked: 0
+  - name: Dome
+    uniqueID: 2840784377
+    locked: 0
+  - name: youlose
+    uniqueID: 3674490007
+    locked: 0
